@@ -51,15 +51,15 @@ Here are the libraries we're gonna need most part of the course.
  
 This is enough to import the libraries above in a .py file running on Spyder IDE. Just run the code to see the successful importing.
 
-**R:** 
+**R** 
 *For this section there's no need of library import in R*
 
 
 ### Importing the dataset  
 
-We need to import and separate the dataset in two different matrices, one of *Features* (Independent variables) and another of Dependent variables.
+We need to import and separate the dataset in two different matrices, one of *Features* (Independent variables) and another of Dependent variables.  
 
-**Explanation**
+**Explanation**  
 ```
 In my case I have a dataset of 10 observations (ten rows) for these columns: Country, Age, Salary, Purchased   
 
@@ -68,13 +68,13 @@ Independent variables: Country, Age, Salary
 Dependent variables: Purchased  
 
 ```
-**Python**
-dataset = pd.read_csv('FileName.csv');
-X = dataset.iloc[:, :-1].values //Features (Independent variables)
-y = dataset.iloc[:, 3].values   // (Dependent variables)
+**Python**  
+dataset = pd.read_csv('FileName.csv');  
+X = dataset.iloc[:, :-1].values //Features (Independent variables)  
+y = dataset.iloc[:, 3].values   // (Dependent variables)  
 
-**R**
-dataset = read.csv('Data.csv') // there is no need matrix separation in R. Much simpler than Python.
+**R**  
+dataset = read.csv('Data.csv') // there is no need matrix separation in R. Much simpler than Python.  
 
 
 ### Missing Data
