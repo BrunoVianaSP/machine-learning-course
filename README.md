@@ -1,6 +1,6 @@
 # Machine Learning A-Z - Hands On with Python and Learning
 
-## Section 1
+## Section 1 - Introduction
 
 ### Applications of Machine Learning
 
@@ -34,6 +34,22 @@ These are basic applications of Machine Learning used in our real life.
 ### Install R Studio
 
 **Go to:** https://www.rstudio.com/ select the right one for your O.S just install it and you're ready.
+
+
+## Section 2 - Data Preprocessing
+
+### Importing the libraries
+
+### Importing the dataset
+
+### Missing Data
+
+### Categorical Data
+
+### Spliting Dataset into Training and Test sets
+
+### Feature Scaling
+
 
 
 
