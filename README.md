@@ -22,7 +22,7 @@ These are basic applications of Machine Learning used in our real life.
 
 **Go to:** https://anaconda.org/anaconda/python just download for your O.S and follow the instructions for installing it. It's just a very basic installation. There is no weird configuration.  
 
-**After installation:** open the Spyder IDE go to view > toolbars > Variable explorer; Object inspector. The are the toolbars we're going to need. 
+**After installation:** open the Spyder IDE go to view > toolbars > Variable explorer; Object inspector. These are the toolbars we're going to need. 
 
 
 ## Installing R and R Studio (Mac & Windows)
