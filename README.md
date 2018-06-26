@@ -44,8 +44,8 @@ Here are the libraries we're gonna need most part of the course.
 **Python:** 
 ```
 **import numpy as np**: includes the mathematic tools needed.
-More at: (http://www.numpy.org/)
-```
+More at: [NumPy](http://www.numpy.org/)
+``` 
 
 
 
