@@ -42,10 +42,9 @@ These are basic applications of Machine Learning used in our real life.
 Here are the libraries we're gonna need most part of the course.
 
 **Python:** 
-```
-**import numpy as np**: includes the mathematic tools needed.
-More at: [NumPy](http://www.numpy.org/)
-``` 
+
+**import numpy as np**: includes the mathematic tools needed. [NumPy](http://www.numpy.org/)
+ 
 
 
 
