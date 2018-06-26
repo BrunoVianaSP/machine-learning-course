@@ -25,7 +25,7 @@ dataset$Purchased = factor(dataset$Purchased,
 
 
 # splitting the dataset into the training set and test set
-# install.packages('caTools')
+install.packages('caTools')
 library(caTools)
 set.seed(123)
 
