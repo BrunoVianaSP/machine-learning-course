@@ -39,6 +39,16 @@ These are basic applications of Machine Learning used in our real life.
 ## Section 2 - Data Preprocessing
 
 ### Importing the libraries
+Here are the libraries we're gonna need most part of the course.
+
+**Python:** 
+```
+import numpy as np: includes the mathematic tools needed more at: http://www.numpy.org/ 
+
+```
+
+
+
 
 ### Importing the dataset
 
