@@ -15,5 +15,13 @@
 **Neuroscience improvements**  
 **Territories exploration**  
 
-These are basic applications of Machine Learning used in our real life.
+These are basic applications of Machine Learning used in our real life.  
+
+### Installing Python and Anaconda (Mac & Windows)
+
+**Go to:** https://anaconda.org/anaconda/python just download for your O.S and follow the instructions for installing it. It's just a very basic installation. There is no weird configurations.  
+
+**After installation:** open the Spyder IDE.  
+
+
 
