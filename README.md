@@ -44,6 +44,8 @@ Here are the libraries we're gonna need most part of the course.
 **Python:** 
 
 **import numpy as np**: includes the mathematic tools needed. [NumPy](http://www.numpy.org/)
+**import matplotlib.pyplot as plt**: for ploting some charts. [MatplotLib](https://matplotlib.org/api/pyplot_api.html)
+**import pandas as pd**: for manage datasets. [Pandas](https://pandas.pydata.org/)
  
 
 
