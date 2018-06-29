@@ -60,8 +60,6 @@ This is enough to import the libraries above in a .py file running on Spyder IDE
 We need to import and separate the dataset in two different matrices, one of *Features* (Independent variables) and another of Dependent variables.  
 
 **Explanation**  
-```
-In my case I have a dataset of 10 observations (ten rows) for these columns: Country, Age, Salary, Purchased   
 
 
 | Country  | Age | Salary | Purchased |
@@ -77,6 +75,9 @@ In my case I have a dataset of 10 observations (ten rows) for these columns: Cou
 | Germany  | 50  | 83000  | no        |
 | France   | 37  | 67000  | yes       |
 
+
+```
+In my case I have a dataset of 10 observations (ten rows) for these columns: Country, Age, Salary, Purchased   
 
 Independent variables: Country, Age, Salary   
 
