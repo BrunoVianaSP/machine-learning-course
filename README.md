@@ -63,6 +63,19 @@ We need to import and separate the dataset in two different matrices, one of *Fe
 ```
 In my case I have a dataset of 10 observations (ten rows) for these columns: Country, Age, Salary, Purchased   
 
+| Country  | Age | Salary | Purchased |
+| ---------| --- | ------ | --------- |
+| France   | 44  | 72000  | no        |
+| Spain    | 27  | 48000  | yes       |
+| Germany  | 30  | 54000  | no        |
+| Spain    | 38  | 61000  | no        |
+| Germany  | 40  |        | yes       |
+| France   | 35  | 58000  | yes       |
+| Spain    |     | 52000  | no        |
+| France   | 48  | 79000  | yes       |
+| Germany  | 50  | 83000  | no        |
+| France   | 37  | 67000  | yes       |
+
 Independent variables: Country, Age, Salary   
 
 Dependent variables: Purchased  
@@ -78,6 +91,16 @@ dataset = read.csv('Data.csv') // there is no need matrix separation in R. Much 
 
 
 ### Missing Data
+In this part of the course we're going to learn a simple way to deal with *Missing Data* by taking the mean of the column that have the missing data and fill the rows with this problem.
+
+
+**Python**  
+ 
+
+**R**  
+ 
+
+
 
 ### Categorical Data
 
