@@ -63,6 +63,7 @@ We need to import and separate the dataset in two different matrices, one of *Fe
 ```
 In my case I have a dataset of 10 observations (ten rows) for these columns: Country, Age, Salary, Purchased   
 
+
 | Country  | Age | Salary | Purchased |
 | ---------| --- | ------ | --------- |
 | France   | 44  | 72000  | no        |
@@ -75,6 +76,7 @@ In my case I have a dataset of 10 observations (ten rows) for these columns: Cou
 | France   | 48  | 79000  | yes       |
 | Germany  | 50  | 83000  | no        |
 | France   | 37  | 67000  | yes       |
+
 
 Independent variables: Country, Age, Salary   
 
