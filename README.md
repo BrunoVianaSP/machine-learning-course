@@ -1,4 +1,5 @@
 # Machine Learning A-Z - Hands On with Python and Learning
+Tutorial based on https://www.udemy.com/machinelearning/learn/v4/overview
 
 ## Section 1 - Introduction
 
@@ -98,7 +99,14 @@ In this part of the course we're going to learn a simple way to deal with *Missi
 
 
 **Python**  
- 
+from sklearn.preprocessing import Imputer [SKLearn Imputer](http://scikit-learn.org/stable/modules/preprocessing.html#preprocessing)
+imputer = Imputer(missing_values='NaN', strategy="mean", axis=0)
+imputer = imputer.fit(X[:, 1:3]) # fit X to imputer
+X[:, 1:3] = imputer.transform(X[:, 1:3]) # replace X dataset with fixed columns
+
+Some explanations: 
+    By putting NaN as the first parameter of Imputer we're telling the class that we are replacing the missing values filled as nan by Python.
+    
 
 **R**  
  
