@@ -52,7 +52,7 @@ Here are the libraries we're gonna need most part of the course.
  
 This is enough to import the libraries above in a .py file running on Spyder IDE. Just run the code to see the successful importing.
 
-**R** 
+**R**   
 *For this section there's no need of library import in R*
 
 
@@ -79,9 +79,7 @@ We need to import and separate the dataset in two different matrices, one of *Fe
 
 ```
 In my case I have a dataset of 10 observations (ten rows) for these columns: Country, Age, Salary, Purchased   
-
 Independent variables: Country, Age, Salary   
-
 Dependent variables: Purchased  
 
 ```
@@ -95,7 +93,7 @@ dataset = read.csv('Data.csv') // there is no need matrix separation in R. Much 
 
 
 ### Missing Data
-In this part of the course we're going to learn a simple way to deal with *Missing Data* by taking the mean of the column that have the missing data and fill the rows with this problem.
+In this part of the course we're going to learn a simple way to deal with *Missing Data* by taking the **mean** of the column that have the missing data and fill the rows with this problem.
 
 
 **Python**  
