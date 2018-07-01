@@ -122,7 +122,7 @@ Some explanations:
     
 
 
-**After Missing data handle**
+**After missing values handling using the mean for both columns Age and Salary**
 
 | Country  | Age | Salary | Purchased |
 | ---------| --- | ------ | --------- |
